@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "894475543110",
+    "project_id": "mt2022-oiltemp",
+    "storage_bucket": "mt2022-oiltemp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894475543110:android:0864b356f9b4101e5f2047",
+        "android_client_info": {
+          "package_name": "com.example.flutter_project_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894475543110-iitpgihepfl4hbeelhlsu7hhndf7nmuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtsBFI2fHF-yQxk1fUnLQnaEAiAgqsQEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894475543110-iitpgihepfl4hbeelhlsu7hhndf7nmuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
